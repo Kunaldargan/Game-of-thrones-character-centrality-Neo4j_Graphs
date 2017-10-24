@@ -12,7 +12,7 @@ https://www.macalester.edu/~abeverid/thrones.html
 
 Network of Thrones
 
-http://betteo.blogspot.com/
+![play_the_game_by_betteo](https://user-images.githubusercontent.com/12375180/31938122-49543296-b8d4-11e7-885d-c834e0f922d7.jpg)
 
 New Networks are Coming!
 A more robust analysis of the Song of Ice and Fire
