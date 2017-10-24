@@ -35,6 +35,7 @@ and connections are weighted with weights = no. of times source have referred ta
 ![alt text](https://user-images.githubusercontent.com/12375180/31937830-4ab58352-b8d3-11e7-9867-248dac0b7cdc.png)
 
 Code :
+
 LOAD CSV WITH HEADERS FROM
 "file:///stormofswords.csv" AS LINE
 WITH LINE 
