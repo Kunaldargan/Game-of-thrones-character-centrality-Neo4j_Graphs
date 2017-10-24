@@ -11,7 +11,9 @@ based on:
 https://www.macalester.edu/~abeverid/thrones.html
 
 Network of Thrones
+
 http://betteo.blogspot.com/
+
 New Networks are Coming!
 A more robust analysis of the Song of Ice and Fire
 
