@@ -24,8 +24,8 @@ This shows the entire knowledge graph ,
 Purple nodes represent the Targets refered 
 Pink represents source names
 and connections are weighted with weights = no. of times source have referred target
-https://user-images.githubusercontent.com/12375180/31937679-e07e5ac2-b8d2-11e7-83d7-80ad28ab2f3c.png
+![alt text]https://user-images.githubusercontent.com/12375180/31937679-e07e5ac2-b8d2-11e7-83d7-80ad28ab2f3c.png
 
-https://user-images.githubusercontent.com/12375180/31937828-48828fb2-b8d3-11e7-9382-44f34173af1b.png
+![alt text]https://user-images.githubusercontent.com/12375180/31937828-48828fb2-b8d3-11e7-9382-44f34173af1b.png
 
 ![alt text](https://user-images.githubusercontent.com/12375180/31937830-4ab58352-b8d3-11e7-9867-248dac0b7cdc.png)
