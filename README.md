@@ -16,11 +16,13 @@ Network of Thrones
 
 New Networks are Coming!
 A more robust analysis of the Song of Ice and Fire
+![got-network](https://user-images.githubusercontent.com/12375180/31938226-9569fa94-b8d4-11e7-8bc0-87088d6f31ca.png)
 
-Interested in a more thorough analysis of "A Song of Ice and Fire?" Check out the Network of Thrones site where we will analyze all the books, as well as the TV series. We will have all of the books up before the start of Season 7, and we will get the TV seasons up as we finish analyzing them.
 
-Original Network of Thrones Data Set
-The Weighted Edges of the Storm of Swords Network
+
+"Interested in a more thorough analysis of "A Song of Ice and Fire?" Check out the Network of Thrones site where we will analyze all the books, as well as the TV series. We will have all of the books up before the start of Season 7, and we will get the TV seasons up as we finish analyzing them."
+
+Original Network of Thrones Data Set -"The Weighted Edges of the Storm of Swords Network"
 
 This shows the entire knowledge graph ,
 Purple nodes represent the Targets refered 
