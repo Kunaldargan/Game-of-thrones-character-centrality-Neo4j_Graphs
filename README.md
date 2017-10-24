@@ -11,7 +11,7 @@ based on:
 https://www.macalester.edu/~abeverid/thrones.html
 
 Network of Thrones
-
+http://betteo.blogspot.com/
 New Networks are Coming!
 A more robust analysis of the Song of Ice and Fire
 
@@ -19,5 +19,11 @@ Interested in a more thorough analysis of "A Song of Ice and Fire?" Check out th
 
 Original Network of Thrones Data Set
 The Weighted Edges of the Storm of Swords Network
+
+C:\Users\DELL1\Pictures\Screenpresso\2017-10-24_15h39_42.png
+This shows the entire knowledge graph ,
+Purple nodes represent the Targets refered 
+Pink represents source names
+and connections are weighted with weights = no. of times source have referred target
 
 
