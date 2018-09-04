@@ -36,11 +36,11 @@ and connections are weighted with weights = no. of times source have referred ta
 
 Code :
 
-LOAD CSV WITH HEADERS FROM
-"file:///stormofswords.csv" AS LINE
-WITH LINE 
-MERGE (source:Source {id: toInt(LINE.Source) })
-MERGE (target:Target {name: toUpper(LINE.Target)})
-CREATE (source)-[:Refers_to :{toInt(LINE.Index) }]->(target)
-match(n)
-return (n)
+- LOAD CSV WITH HEADERS FROM
+- "file:///stormofswords.csv" AS LINE
+- WITH LINE 
+- MERGE (source:Source {id: toInt(LINE.Source) })
+- MERGE (target:Target {name: toUpper(LINE.Target)})
+- CREATE (source)-[:Refers_to :{toInt(LINE.Index) }]->(target)
+- match(n)
+- return (n)
